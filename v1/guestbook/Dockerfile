@@ -16,7 +16,6 @@ RUN go get github.com/codegangsta/negroni
 
 #MY CODE
 RUN go get github.com/gorilla/mux github.com/xyproto/simpleredis
-#
 
 COPY main.go .
 RUN go build main.go
