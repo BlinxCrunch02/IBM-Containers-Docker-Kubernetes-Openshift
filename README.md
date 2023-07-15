@@ -1,1 +1,1 @@
-# IBM-Containers-Docker-Kubernetes-Openshift
+# coding-project-template
